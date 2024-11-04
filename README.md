@@ -4,4 +4,4 @@
 - 3 rode o index.js usando: node index;
 - Pronto;
 
-Vai gerar um arquivo "dadosFormatados.json" na pasta json, com a formatação do excel;
+Vai gerar um arquivo "dadosFormatados.json" na pasta json, com a formatação do excel em json;
